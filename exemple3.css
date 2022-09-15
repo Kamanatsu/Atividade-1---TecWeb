@@ -1,0 +1,53 @@
+@media screen and (min-width:0px) and (max-width:768){
+    .disp1{
+        width: 100%;
+        height: 100%;
+        background-color: lightgreen;
+    }
+}
+
+@media screen and (min-width:769px) and (max-width:1279){
+    .disp1{
+        width: 100%;
+        height: 50%;
+        background-color: lightgreen;
+    }
+
+    .disp2{
+        width: 100%;
+        height: 50%;
+        background-color: lightblue;
+    }
+}
+
+@media screen and (min-width:1280px) and (max-width:3000){
+    .disp1{
+        width: 100%;
+        height: 20%;
+        background-color: lightgreen;
+    }
+
+    .disp2{
+        width: 100%;
+        height: 20%;
+        background-color: lightblue;
+    }
+
+    .disp3{
+        width: 100%;
+        height: 20%;
+        background-color: lightpink;
+    }
+
+    .disp4{
+        width: 100%;
+        height: 20%;
+        background-color: lightgreen;
+    }
+
+    .disp5{
+        width: 100%;
+        height: 20%;
+        background-color: lightblue;
+    }
+}

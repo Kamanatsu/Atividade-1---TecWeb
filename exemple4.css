@@ -1,0 +1,59 @@
+@media screen and (min-width:0px) and (max-width:768px){
+    .botao{
+        width: auto;
+        margin: 0 center;
+    }
+
+    h1{
+        width: auto;
+        margin: 0 center;
+        text-align: justify;
+    }
+
+    p{
+        width: auto;
+        margin: 0 center;
+    }
+
+}
+
+@media screen and (min-width:769px) and (max-width:1269px){
+    .botao{
+        width: auto;
+        margin: 0 left;
+    }
+
+    h1{
+        width: auto;
+        margin: 0 right;
+    }
+
+    p{
+        width: auto;
+        margin: 0 right;
+    }
+
+}
+
+@media screen and (min-width:1280px) and (max-width:3000px){
+    .botao{
+        width: auto;
+        float: left;
+    }
+
+    h1{
+        width: auto;
+        float: center;
+    }
+
+    p{
+        width: auto;
+        float: center;
+    }
+
+
+}
+
+
+
+
